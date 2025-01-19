@@ -5,3 +5,4 @@ numpy
 gunicorn
 plotly
 scikit-learn
+matplotlib
