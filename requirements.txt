@@ -3,4 +3,7 @@ jupyter
 pandas
 numpy
 gunicorn
+plotly
+scikit-learn
+
 
