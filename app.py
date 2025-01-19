@@ -1,3 +1,11 @@
+from flask import Flask
+
+app = Flask(__name__)
+
+@app.route('/')
+def hello():
+    return "Hello, World!"
+
 import pandas as pd
 
 url = "https://raw.githubusercontent.com/cansukarabulut/DA3/refs/heads/main/global_electricity_production_data.csv"
