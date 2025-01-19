@@ -2,3 +2,5 @@ dash
 jupyter
 pandas
 numpy
+gunicorn
+
