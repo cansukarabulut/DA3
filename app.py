@@ -1,4 +1,3 @@
-pip install pandas
 import pandas as pd
 
 url = "https://raw.githubusercontent.com/cansukarabulut/DA3/refs/heads/main/global_electricity_production_data.csv"
